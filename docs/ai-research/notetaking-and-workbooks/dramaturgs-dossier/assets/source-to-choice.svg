@@ -1,0 +1,135 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 860" width="1200" height="860" font-family="Inter, 'Helvetica Neue', Arial, sans-serif">
+  <title>From source to research note to production choice</title>
+  <defs>
+    <marker id="a" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M0,0 L10,5 L0,10 z" fill="#2b2b2b"/>
+    </marker>
+    <marker id="g" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M0,0 L10,5 L0,10 z" fill="#9a9a9a"/>
+    </marker>
+    <style>
+      .box { fill: #ffffff; stroke: #2b2b2b; stroke-width: 1.2; }
+      .boxg { fill: #f3f2ef; stroke: #9a9a9a; stroke-width: 1.2; stroke-dasharray: 5 4; }
+      .t { font-size: 16px; font-weight: 800; fill: #1d1d1d; }
+      .b { font-size: 13.5px; fill: #333333; }
+      .bg { font-size: 13.5px; fill: #7a7a7a; }
+      .h { font-size: 13px; font-weight: 800; letter-spacing: 0.12em; fill: #1d1d1d; }
+      .tagc { font-size: 10.5px; font-weight: 800; letter-spacing: 0.1em; fill: #b5452c; }
+      .tagw { font-size: 10.5px; font-weight: 800; letter-spacing: 0.1em; fill: #2c5e8a; }
+      .ar { stroke: #2b2b2b; stroke-width: 1.6; fill: none; }
+      .ard { stroke: #2b2b2b; stroke-width: 1.6; fill: none; stroke-dasharray: 6 5; }
+      .arg { stroke: #9a9a9a; stroke-width: 1.6; fill: none; stroke-dasharray: 3 4; }
+      .lg { font-size: 12.5px; fill: #444444; }
+    </style>
+  </defs>
+  <rect width="1200" height="860" fill="#fbfaf7"/>
+
+  <text x="40" y="44" font-size="24" font-weight="800" fill="#1d1d1d">From source to research note to production choice</text>
+  <text x="40" y="70" font-size="14" fill="#555">Five chains from Mother Courage (Berlin 1949) and War Horse (National Theatre 2007), with how well each link is documented</text>
+
+  <text x="40" y="106" class="h">SOURCE</text>
+  <text x="430" y="106" class="h">RESEARCH NOTE</text>
+  <text x="820" y="106" class="h">PRODUCTION CHOICE</text>
+
+  <!-- Row 1: Singapore photo -->
+  <rect x="40" y="118" width="340" height="96" rx="6" class="box"/>
+  <text x="368" y="134" text-anchor="end" class="tagc">MOTHER COURAGE</text>
+  <text x="56" y="146" class="t">AP press photograph</text>
+  <text x="56" y="170" class="b">A woman crouches by her dead son after the</text>
+  <text x="56" y="190" class="b">bombing of Singapore; in Life, 23 March 1942</text>
+  <rect x="430" y="118" width="340" height="96" rx="6" class="box"/>
+  <text x="446" y="146" class="t">Brecht's journal, 5 April 1942</text>
+  <text x="446" y="170" class="b">He pastes the photo in; later uses it in the</text>
+  <text x="446" y="190" class="b">Kriegsfibel as "Singapore Lament"</text>
+  <rect x="820" y="118" width="340" height="96" rx="6" class="box"/>
+  <text x="836" y="146" class="t">Weigel's silent scream, scene 3</text>
+  <text x="836" y="170" class="b">Found only in later performances. Brecht:</text>
+  <text x="836" y="190" class="b">"presumably" the photo; Weigel did not recall it</text>
+  <line x1="380" y1="166" x2="428" y2="166" class="ar" marker-end="url(#a)"/>
+  <line x1="770" y1="166" x2="818" y2="166" class="ard" marker-end="url(#a)"/>
+
+  <!-- Row 2: Zurich reviews -->
+  <rect x="40" y="230" width="340" height="96" rx="6" class="box"/>
+  <text x="368" y="246" text-anchor="end" class="tagc">MOTHER COURAGE</text>
+  <text x="56" y="258" class="t">Zurich reviews, 1941</text>
+  <text x="56" y="282" class="b">Critics praise "the endless vitality of the</text>
+  <text x="56" y="302" class="b">mother animal" in Giehse's Courage</text>
+  <rect x="430" y="230" width="340" height="96" rx="6" class="box"/>
+  <text x="446" y="258" class="t">Brecht's note before Berlin</text>
+  <text x="446" y="282" class="b">Scene 1 already lets spectators be moved by</text>
+  <text x="446" y="302" class="b">the "eternal mother-animal": change it</text>
+  <rect x="820" y="230" width="340" height="96" rx="6" class="box"/>
+  <text x="836" y="258" class="t">Text rewrites for 1949</text>
+  <text x="836" y="282" class="b">Scenes 1, 5, 7: she loses Eilif while selling a</text>
+  <text x="836" y="302" class="b">buckle; gives up the shirts only under force</text>
+  <line x1="380" y1="278" x2="428" y2="278" class="ar" marker-end="url(#a)"/>
+  <line x1="770" y1="278" x2="818" y2="278" class="ar" marker-end="url(#a)"/>
+
+  <!-- Row 3: horses breathing -->
+  <rect x="40" y="342" width="340" height="96" rx="6" class="box"/>
+  <text x="368" y="358" text-anchor="end" class="tagw">WAR HORSE</text>
+  <text x="56" y="370" class="t">Real horses, breathing hard</text>
+  <text x="56" y="394" class="b">Handspring watches horses after exertion:</text>
+  <text x="56" y="414" class="b">the rib cage swells out to the sides</text>
+  <rect x="430" y="342" width="340" height="96" rx="6" class="box"/>
+  <text x="446" y="370" class="t">Kohler's design problem</text>
+  <text x="446" y="394" class="b">Sideways breathing is invisible in profile;</text>
+  <text x="446" y="414" class="b">ears must turn 180° (interest, fear)</text>
+  <rect x="820" y="342" width="340" height="96" rx="6" class="box"/>
+  <text x="836" y="370" class="t">Joey's ribs and ears</text>
+  <text x="836" y="394" class="b">Ribs rise as the "heart" puppeteer bends</text>
+  <text x="836" y="414" class="b">their knees: less accurate, more visible</text>
+  <line x1="380" y1="390" x2="428" y2="390" class="ar" marker-end="url(#a)"/>
+  <line x1="770" y1="390" x2="818" y2="390" class="ar" marker-end="url(#a)"/>
+
+  <!-- Row 4: sketchbook -->
+  <rect x="40" y="454" width="340" height="96" rx="6" class="box"/>
+  <text x="368" y="470" text-anchor="end" class="tagw">WAR HORSE</text>
+  <text x="56" y="482" class="t">A sketchbook page, projected</text>
+  <text x="56" y="506" class="b">Rae Smith tries a strip of her own</text>
+  <text x="56" y="526" class="b">sketchbook as a projected illustration</text>
+  <rect x="430" y="454" width="340" height="96" rx="6" class="box"/>
+  <text x="446" y="482" class="t">Nicholls becomes an artist</text>
+  <text x="446" y="506" class="b">His drawings shift from watercolour toward</text>
+  <text x="446" y="526" class="b">Vorticism (the video designer names Nash)</text>
+  <rect x="820" y="454" width="340" height="96" rx="6" class="box"/>
+  <text x="836" y="482" class="t">The torn-paper screen</text>
+  <text x="836" y="506" class="b">Carries "his" drawings; the dates on them echo</text>
+  <text x="836" y="526" class="b">dated sketches in Morris's grandfather's diary</text>
+  <line x1="380" y1="502" x2="428" y2="502" class="ar" marker-end="url(#a)"/>
+  <line x1="770" y1="502" x2="818" y2="502" class="ar" marker-end="url(#a)"/>
+
+  <!-- Row 5: not established -->
+  <rect x="40" y="566" width="340" height="80" rx="6" class="boxg"/>
+  <text x="368" y="582" text-anchor="end" class="tagw">WAR HORSE</text>
+  <text x="56" y="594" class="t" fill="#555">Letters and service records</text>
+  <text x="56" y="620" class="bg">1916–17; filed in the SM Bible, RNT/SM/1/573b</text>
+  <rect x="430" y="566" width="340" height="80" rx="6" class="boxg"/>
+  <text x="446" y="594" class="t" fill="#555">No note found</text>
+  <text x="446" y="620" class="bg">The catalogue does not say what they shaped</text>
+  <rect x="820" y="566" width="340" height="80" rx="6" class="boxg"/>
+  <text x="836" y="594" class="t" fill="#555">Link not established</text>
+  <text x="836" y="620" class="bg">A lead to check in the reading room</text>
+  <line x1="380" y1="606" x2="428" y2="606" class="arg" marker-end="url(#g)"/>
+  <line x1="770" y1="606" x2="818" y2="606" class="arg" marker-end="url(#g)"/>
+
+  <!-- Records made afterward -->
+  <path d="M1160,278 H1180 M1160,390 H1180 M1160,502 H1180 M1160,166 H1180 V738 H1163" class="ar" marker-end="url(#a)"/>
+  <rect x="430" y="692" width="730" height="92" rx="6" fill="#efe9dd" stroke="#2b2b2b" stroke-width="1.2"/>
+  <text x="446" y="720" class="t">Records that outlast the run</text>
+  <text x="446" y="744" class="b">Couragemodell 1949 (photos 1949–51, published 1958) · War Horse SM Bible (kept during the run) ·</text>
+  <text x="446" y="764" class="b">NT education packs (2007, 2011, 2024) · production photographs · Millar, The Horse's Mouth (2007)</text>
+  <path d="M430,738 L20,738 L20,166 L38,166" class="ar" marker-end="url(#a)"/>
+  <text x="40" y="700" class="lg" font-weight="800">…and they become the next</text>
+  <text x="40" y="718" class="lg" font-weight="800">production's sources:</text>
+  <text x="40" y="760" class="lg">Munich 1950, Barnstaple 1955,</text>
+  <text x="40" y="778" class="lg">Broadway 1963, War Horse tours</text>
+
+  <!-- Legend -->
+  <line x1="40" y1="826" x2="84" y2="826" class="ar"/>
+  <text x="92" y="830" class="lg">documented in the makers' own words</text>
+  <line x1="370" y1="826" x2="414" y2="826" class="ard"/>
+  <text x="422" y="830" class="lg">asserted afterward, with a hedge</text>
+  <line x1="680" y1="826" x2="724" y2="826" class="arg"/>
+  <text x="732" y="830" class="lg">not established</text>
+</svg>

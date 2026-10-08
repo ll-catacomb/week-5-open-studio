@@ -1,0 +1,50 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1440" height="860" viewBox="0 0 1440 860" role="img" aria-labelledby="title desc">
+  <title id="title">From source to research note to production choice</title>
+  <desc id="desc">A proposed workflow from a source through annotated research and rehearsal tests to a production choice. Documentation returns to future preparation. An open questions register spans the process.</desc>
+  <defs>
+    <marker id="arrow" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="8" markerHeight="8" orient="auto-start-reverse"><path d="M 0 0 L 10 5 L 0 10 z" fill="#254e60"/></marker>
+    <style>text{font-family:Arial,Helvetica,sans-serif;fill:#173644}.heading{font-size:42px;font-weight:700}.label{font-size:25px;font-weight:700}.body{font-size:21px}.small{font-size:19px}.line{fill:none;stroke:#254e60;stroke-width:3;marker-end:url(#arrow)}</style>
+  </defs>
+  <rect width="1440" height="860" fill="#fbf8ef"/>
+  <text class="heading" x="70" y="82">How research enters the rehearsal room</text>
+  <text class="body" x="70" y="124">Proposed working method for TDM 155AI • Label the evidence behind every arrow</text>
+  <g>
+    <rect x="70" y="190" width="280" height="235" rx="15" fill="#e6edf0"/>
+    <text class="label" x="94" y="234">1  Source</text>
+    <text class="body" x="94" y="280">Document, image, sound</text>
+    <text class="body" x="94" y="314">Creator • date • context</text>
+    <text class="body" x="94" y="348">Locator • rights • consent</text>
+    <text class="small" x="94" y="393">Keep the source intact</text>
+    <rect x="410" y="190" width="280" height="235" rx="15" fill="#e6edf0"/>
+    <text class="label" x="434" y="234">2  Research note</text>
+    <text class="body" x="434" y="280">What do we observe?</text>
+    <text class="body" x="434" y="314">What might it mean?</text>
+    <text class="body" x="434" y="348">What else could it mean?</text>
+    <text class="small" x="434" y="393">Attribute the interpretation</text>
+    <rect x="750" y="190" width="280" height="235" rx="15" fill="#e6edf0"/>
+    <text class="label" x="774" y="234">3  Rehearsal test</text>
+    <text class="body" x="774" y="280">Try a concrete action</text>
+    <text class="body" x="774" y="314">Compare another reading</text>
+    <text class="body" x="774" y="348">Record what happened</text>
+    <text class="small" x="774" y="393">Keep unsuccessful trials</text>
+    <rect x="1090" y="190" width="280" height="235" rx="15" fill="#dbe9df"/>
+    <text class="label" x="1114" y="234">4  Production choice</text>
+    <text class="body" x="1114" y="280">Adopt • revise • reject</text>
+    <text class="body" x="1114" y="314">Who decides? When?</text>
+    <text class="body" x="1114" y="348">Communicate to the team</text>
+    <text class="small" x="1114" y="393">Update operational records</text>
+    <rect x="350" y="298" width="44" height="4" fill="#254e60"/><rect x="690" y="298" width="44" height="4" fill="#254e60"/><rect x="1030" y="298" width="44" height="4" fill="#254e60"/>
+    <path fill="#254e60" d="M392 292 L406 300 L392 308 Z M732 292 L746 300 L732 308 Z M1072 292 L1086 300 L1072 308 Z"/>
+  </g>
+  <rect x="410" y="492" width="960" height="132" rx="15" fill="#dbe9df"/>
+  <text class="label" x="435" y="533">5  Documentation becomes a future resource</text>
+  <text class="body" x="435" y="571">Selected photographs • annotated text • credits • decisions and revisions</text>
+  <text class="small" x="435" y="603">Date the record. A model book made afterward is not the original research pack.</text>
+  <rect x="1228" y="425" width="4" height="51" fill="#254e60"/>
+  <rect x="208" y="556" width="202" height="4" fill="#254e60"/><rect x="208" y="440" width="4" height="120" fill="#254e60"/>
+  <path fill="#254e60" d="M1222 474 L1230 488 L1238 474 Z M202 442 L210 428 L218 442 Z"/>
+  <text class="small" x="81" y="654">Next production</text>
+  <rect x="70" y="697" width="1300" height="110" rx="15" fill="#f2e6c9" stroke="#ac8b48" stroke-width="1.5"/>
+  <text class="label" x="94" y="735">Open questions and disagreement stay available throughout</text>
+  <text class="body" x="94" y="774">Missing voices • conflicting sources • uncertain connections • alternative actions • reasons for rejection</text>
+</svg>

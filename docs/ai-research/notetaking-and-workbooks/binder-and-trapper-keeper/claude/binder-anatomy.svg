@@ -1,0 +1,72 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 760" width="1280" height="760" font-family="Inter, Helvetica, Arial, sans-serif">
+  <title>Anatomy of a Trapper Keeper, open flat (schematic)</title>
+  <rect width="1280" height="760" fill="#ffffff"/>
+  <text x="40" y="52" font-size="28" font-weight="800" fill="#1a1a1a">Anatomy of a Trapper Keeper, open flat</text>
+  <text x="40" y="82" font-size="15" fill="#555">Schematic drawn from 1980–82 store ads and Mead patents; proportions approximate. Inside view: front cover left, back cover and flap right.</text>
+
+  <!-- front cover, inside -->
+  <rect x="60" y="130" width="340" height="470" rx="10" fill="#e9eef5" stroke="#2b3a55" stroke-width="3"/>
+  <!-- special pocket -->
+  <path d="M60 430 L400 400 L400 590 Q400 600 390 600 L70 600 Q60 600 60 590 Z" fill="#c9d6e8" stroke="#2b3a55" stroke-width="2"/>
+  <!-- spine -->
+  <rect x="400" y="130" width="64" height="470" fill="#d5dde8" stroke="#2b3a55" stroke-width="3"/>
+  <!-- rings -->
+  <g fill="none" stroke="#7a7f87" stroke-width="7">
+    <ellipse cx="432" cy="220" rx="22" ry="30"/>
+    <ellipse cx="432" cy="365" rx="22" ry="30"/>
+    <ellipse cx="432" cy="510" rx="22" ry="30"/>
+  </g>
+  <!-- back cover, inside -->
+  <rect x="464" y="130" width="340" height="470" rx="10" fill="#e9eef5" stroke="#2b3a55" stroke-width="3"/>
+  <!-- pad -->
+  <rect x="520" y="200" width="230" height="330" fill="#fffdf2" stroke="#8a8366" stroke-width="2"/>
+  <g stroke="#b9c7dd" stroke-width="1.5">
+    <line x1="530" y1="250" x2="740" y2="250"/><line x1="530" y1="275" x2="740" y2="275"/><line x1="530" y1="300" x2="740" y2="300"/>
+    <line x1="530" y1="325" x2="740" y2="325"/><line x1="530" y1="350" x2="740" y2="350"/><line x1="530" y1="375" x2="740" y2="375"/>
+    <line x1="530" y1="400" x2="740" y2="400"/><line x1="530" y1="425" x2="740" y2="425"/><line x1="530" y1="450" x2="740" y2="450"/>
+    <line x1="530" y1="475" x2="740" y2="475"/><line x1="530" y1="500" x2="740" y2="500"/>
+  </g>
+  <!-- clip with pencil slot -->
+  <rect x="580" y="180" width="110" height="34" rx="6" fill="#4a5568" stroke="#1a1a1a" stroke-width="2"/>
+  <rect x="520" y="160" width="230" height="12" rx="6" fill="#d9a441" stroke="#7a5a1a" stroke-width="2"/>
+  <polygon points="750,160 772,166 750,172" fill="#7a5a1a"/>
+  <!-- flap -->
+  <path d="M804 160 L930 175 Q950 178 950 198 L950 532 Q950 552 930 555 L804 570 Z" fill="#dfe6f0" stroke="#2b3a55" stroke-width="3"/>
+  <!-- closure -->
+  <circle cx="912" cy="365" r="20" fill="#ffffff" stroke="#2b3a55" stroke-width="3"/>
+  <circle cx="912" cy="365" r="7" fill="#2b3a55"/>
+
+  <!-- Trapper folder, separate -->
+  <rect x="1000" y="160" width="240" height="300" rx="6" fill="#f3d9d0" stroke="#7a3b2b" stroke-width="3"/>
+  <path d="M1000 330 L1240 250 L1240 454 Q1240 460 1234 460 L1006 460 Q1000 460 1000 454 Z" fill="#e8bcae" stroke="#7a3b2b" stroke-width="2"/>
+  <rect x="1030" y="200" width="170" height="210" fill="#ffffff" stroke="#999" stroke-width="1.5" opacity="0.85"/>
+  <path d="M1000 330 L1240 250 L1240 454 Q1240 460 1234 460 L1006 460 Q1000 460 1000 454 Z" fill="#e8bcae" stroke="#7a3b2b" stroke-width="2" opacity="0.95"/>
+  <g fill="#1a1a1a">
+    <circle cx="1012" cy="200" r="4"/><circle cx="1012" cy="310" r="4"/><circle cx="1012" cy="420" r="4"/>
+  </g>
+  <text x="1105" y="490" font-size="14" fill="#555" text-anchor="middle">one of three Trapper folders, on the rings</text>
+
+  <!-- callouts -->
+  <g font-size="15" fill="#1a1a1a">
+    <g><circle cx="230" cy="110" r="14" fill="#1a1a1a"/><text x="230" y="115" fill="#fff" font-weight="800" text-anchor="middle">1</text>
+      <text x="252" y="115">Cover: printed design on the outside</text></g>
+    <g><circle cx="877" cy="140" r="14" fill="#1a1a1a"/><text x="877" y="145" fill="#fff" font-weight="800" text-anchor="middle">2</text>
+      <text x="836" y="122">Flap wraps the front</text></g>
+    <g><circle cx="965" cy="365" r="14" fill="#1a1a1a"/><text x="965" y="370" fill="#fff" font-weight="800" text-anchor="middle">3</text></g>
+    <g><circle cx="432" cy="625" r="14" fill="#1a1a1a"/><text x="432" y="630" fill="#fff" font-weight="800" text-anchor="middle">4</text></g>
+    <g><circle cx="1120" cy="140" r="14" fill="#1a1a1a"/><text x="1120" y="145" fill="#fff" font-weight="800" text-anchor="middle">5</text></g>
+    <g><circle cx="230" cy="625" r="14" fill="#1a1a1a"/><text x="230" y="630" fill="#fff" font-weight="800" text-anchor="middle">6</text></g>
+    <g><circle cx="635" cy="140" r="14" fill="#1a1a1a"/><text x="635" y="145" fill="#fff" font-weight="800" text-anchor="middle">7</text></g>
+    <g><circle cx="635" cy="625" r="14" fill="#1a1a1a"/><text x="635" y="630" fill="#fff" font-weight="800" text-anchor="middle">8</text></g>
+  </g>
+
+  <!-- legend -->
+  <g font-size="15" fill="#1a1a1a">
+    <text x="60" y="672"><tspan font-weight="800">3</tspan> Closure: "snap-lock flap" (1981), "Velcro closure" (1982)</text>
+    <text x="60" y="697"><tspan font-weight="800">4</tspan> Three "pinchless rings" that slide apart (1981)</text>
+    <text x="60" y="722"><tspan font-weight="800">5</tspan> Trapper folder: one per subject, pocket cut on the diagonal</text>
+    <text x="640" y="672"><tspan font-weight="800">6</tspan> "Special pocket" (1981; placement assumed)</text>
+    <text x="640" y="697"><tspan font-weight="800">7</tspan> One-piece clip with pencil slot (US 3,968,546, 1976)</text>
+    <text x="640" y="722"><tspan font-weight="800">8</tspan> "36-sheet paper pad" (1981) · closed size "10½ x 12" (1980)</text>
+  </g>
+</svg>
